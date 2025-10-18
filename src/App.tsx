@@ -19,7 +19,7 @@ function App() {
             <Card className="w-full max-w-sm bg-white/10 backdrop-blur-md border border-white/10 text-white shadow-lg">
               <CardContent>
                 <img
-                  src="./public/headshot.jpg"
+                  src="./headshot.jpg"
                   alt="Headshot photo"
                   className="rounded-sm"
                 />
